@@ -1,0 +1,34 @@
+5 5
+Coin
+Rare UA kopiika/100/1/14
+Rare world wide coin/200/1/14
+A coin from limited collection/300/2/21
+Old coin/250/2/20
+Ancient coin/1000/5/30
+Jewelry
+Necklace/100/5/14
+Ring/150/2/21
+Earrings/150/2/21
+Diadem/500/3/28
+Brooch/100/1/10
+Gems
+Gold (100g)/1500/5/30
+Silver (100g)/800/4/28
+Diamond (1k)/800/5/28
+Swarowski (1k)/500/3/28
+Other gems (100g)/600/2/21
+Property
+Technique/300/2/14
+Laptop/1500/4/21
+Cello/1000/3/21
+Headphones/300/2/14
+TV/2000/5/35
+Valuable stuff
+Book/150/1/7
+Dish/175/1/7
+Statuette/250/1/10
+Knife/375/3/10
+Collection stuff/500/4/14
+
+
+
