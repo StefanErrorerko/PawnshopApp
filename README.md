@@ -1,5 +1,5 @@
 # PawnshopApp
-Here is a console pawnshop app written on C#. It demonstrates the results of studying course "Основи розробик програмного забезпечння на платформі .NET". For instance,
+Here is a console pawnshop app written on C#. It demonstrates the results of studying course "Основи розробки програмного забезпечння на платформі .NET". For instance,
 - here is a ready entire model of pawnshop application;
 - classes connected with each other differently;
 - a program has a simple console UI that allows user minimally interact with it.
